@@ -1,0 +1,18 @@
+#!/bin/bash
+. $HOME/.bash_colors
+
+function maybe_git_branch() {
+	branch_out="$(git branch 2>/dev/null | grep '^*')" 
+	if [[ "$?" -eq 0 ]]; then
+		echo -ne " ${NORMAL}[${YELLOW}git${NORMAL}:${AQUA}${branch_out:2}${NORMAL}]"
+	fi
+}
+
+PS1="${CNORMAL}[${CGREEN}\u${CAQUA}@${CRED}\h${CNORMAL}] [${CBLUE}\w${CNORMAL}]\$(maybe_git_branch)"
+
+if [[ "$YELP_IN_SANDBOX" ]]; then 
+	PS1="${PS1} ${CNORMAL}[${CRED}sandbox${CNORMAL}]"
+fi
+
+export PS1="${PS1} ${CGREEN}\n\$${CNORMAL} "
+#export PROMPT_COMMAND=prompt-command

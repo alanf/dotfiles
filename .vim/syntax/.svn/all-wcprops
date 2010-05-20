@@ -1,0 +1,3125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax
+END
+sqloracle.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqloracle.vim
+END
+dosini.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dosini.vim
+END
+ch.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ch.vim
+END
+whitespace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/whitespace.vim
+END
+slice.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slice.vim
+END
+cfg.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cfg.vim
+END
+docbkxml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/docbkxml.vim
+END
+config.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/config.vim
+END
+sd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sd.vim
+END
+registry.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/registry.vim
+END
+pdf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pdf.vim
+END
+slpspi.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slpspi.vim
+END
+dtd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dtd.vim
+END
+sl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sl.vim
+END
+cynlib.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cynlib.vim
+END
+m4.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/m4.vim
+END
+xmath.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xmath.vim
+END
+st.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/st.vim
+END
+ishd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ishd.vim
+END
+crontab.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/crontab.vim
+END
+hb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hb.vim
+END
+cvs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cvs.vim
+END
+gitcommit.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gitcommit.vim
+END
+rpl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rpl.vim
+END
+apachestyle.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/apachestyle.vim
+END
+groff.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/groff.vim
+END
+hamster.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hamster.vim
+END
+povini.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/povini.vim
+END
+htmlos.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/htmlos.vim
+END
+lisp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lisp.vim
+END
+antlr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/antlr.vim
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/README.txt
+END
+clean.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/clean.vim
+END
+elinks.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/elinks.vim
+END
+gnuplot.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gnuplot.vim
+END
+spec.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/spec.vim
+END
+slrnrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slrnrc.vim
+END
+pascal.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pascal.vim
+END
+msidl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/msidl.vim
+END
+cuda.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cuda.vim
+END
+skill.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/skill.vim
+END
+ruby.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ruby.vim
+END
+sensors.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sensors.vim
+END
+cobol.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cobol.vim
+END
+gretl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gretl.vim
+END
+make.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/make.vim
+END
+purifylog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/purifylog.vim
+END
+xkb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xkb.vim
+END
+groovy.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/groovy.vim
+END
+mmp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mmp.vim
+END
+sendpr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sendpr.vim
+END
+kix.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/kix.vim
+END
+sqr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqr.vim
+END
+nastran.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nastran.vim
+END
+viminfo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/viminfo.vim
+END
+pfmain.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pfmain.vim
+END
+jgraph.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jgraph.vim
+END
+texinfo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/texinfo.vim
+END
+cuplsim.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cuplsim.vim
+END
+sm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sm.vim
+END
+forth.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/forth.vim
+END
+conf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/conf.vim
+END
+wvdial.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wvdial.vim
+END
+art.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/art.vim
+END
+plm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/plm.vim
+END
+snnsres.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/snnsres.vim
+END
+rnoweb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rnoweb.vim
+END
+clipper.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/clipper.vim
+END
+docbksgml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/docbksgml.vim
+END
+a2ps.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/a2ps.vim
+END
+jal.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jal.vim
+END
+nsis.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nsis.vim
+END
+csh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/csh.vim
+END
+cvsrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cvsrc.vim
+END
+mgp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mgp.vim
+END
+trasys.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/trasys.vim
+END
+squid.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/squid.vim
+END
+csp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/csp.vim
+END
+vhdl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vhdl.vim
+END
+reva.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/reva.vim
+END
+grub.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/grub.vim
+END
+tex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tex.vim
+END
+dylanlid.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dylanlid.vim
+END
+asmh8300.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asmh8300.vim
+END
+procmail.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/procmail.vim
+END
+elf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/elf.vim
+END
+uc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/uc.vim
+END
+dracula.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dracula.vim
+END
+muttrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/muttrc.vim
+END
+cdrtoc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cdrtoc.vim
+END
+nanorc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nanorc.vim
+END
+haml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/haml.vim
+END
+sisu.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sisu.vim
+END
+bc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bc.vim
+END
+ldapconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ldapconf.vim
+END
+libao.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/libao.vim
+END
+spup.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/spup.vim
+END
+cynpp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cynpp.vim
+END
+plsql.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/plsql.vim
+END
+slrnsc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slrnsc.vim
+END
+jess.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jess.vim
+END
+quake.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/quake.vim
+END
+vb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vb.vim
+END
+sqlj.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqlj.vim
+END
+mma.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mma.vim
+END
+gtkrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gtkrc.vim
+END
+ctrlh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ctrlh.vim
+END
+kscript.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/kscript.vim
+END
+yacc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/yacc.vim
+END
+texmf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/texmf.vim
+END
+xpm2.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xpm2.vim
+END
+dot.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dot.vim
+END
+alsaconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/alsaconf.vim
+END
+setserial.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/setserial.vim
+END
+fetchmail.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fetchmail.vim
+END
+sindacmp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sindacmp.vim
+END
+hitest.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hitest.vim
+END
+baan.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/baan.vim
+END
+lss.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lss.vim
+END
+smil.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/smil.vim
+END
+atlas.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/atlas.vim
+END
+pilrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pilrc.vim
+END
+logindefs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/logindefs.vim
+END
+pinfo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pinfo.vim
+END
+ldif.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ldif.vim
+END
+snobol4.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/snobol4.vim
+END
+denyhosts.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/denyhosts.vim
+END
+nosyntax.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nosyntax.vim
+END
+smith.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/smith.vim
+END
+protocols.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/protocols.vim
+END
+named.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/named.vim
+END
+snnspat.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/snnspat.vim
+END
+sindaout.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sindaout.vim
+END
+sshdconfig.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sshdconfig.vim
+END
+pike.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pike.vim
+END
+lynx.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lynx.vim
+END
+dtrace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dtrace.vim
+END
+xpm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xpm.vim
+END
+verilog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/verilog.vim
+END
+jam.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jam.vim
+END
+gitconfig.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gitconfig.vim
+END
+hercules.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hercules.vim
+END
+nqc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nqc.vim
+END
+manconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/manconf.vim
+END
+lua.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lua.vim
+END
+readline.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/readline.vim
+END
+haskell.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/haskell.vim
+END
+sgmllnx.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sgmllnx.vim
+END
+context.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/context.vim
+END
+asterisk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asterisk.vim
+END
+voscm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/voscm.vim
+END
+help.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/help.vim
+END
+sgmldecl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sgmldecl.vim
+END
+moo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/moo.vim
+END
+eiffel.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/eiffel.vim
+END
+tads.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tads.vim
+END
+tssgm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tssgm.vim
+END
+smcl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/smcl.vim
+END
+aspvbs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/aspvbs.vim
+END
+tilde.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tilde.vim
+END
+mf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mf.vim
+END
+cdl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cdl.vim
+END
+form.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/form.vim
+END
+mysql.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mysql.vim
+END
+splint.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/splint.vim
+END
+calendar.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/calendar.vim
+END
+fortran.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fortran.vim
+END
+msql.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/msql.vim
+END
+objc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/objc.vim
+END
+gpg.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gpg.vim
+END
+sdl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sdl.vim
+END
+terminfo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/terminfo.vim
+END
+sudoers.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sudoers.vim
+END
+change.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/change.vim
+END
+2html.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/2html.vim
+END
+simula.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/simula.vim
+END
+dcd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dcd.vim
+END
+bzr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bzr.vim
+END
+idlang.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/idlang.vim
+END
+dcl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dcl.vim
+END
+z8a.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/z8a.vim
+END
+cupl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cupl.vim
+END
+stp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/stp.vim
+END
+natural.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/natural.vim
+END
+mupad.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mupad.vim
+END
+syncolor.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/syncolor.vim
+END
+fgl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fgl.vim
+END
+ppwiz.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ppwiz.vim
+END
+aml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/aml.vim
+END
+cterm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cterm.vim
+END
+mel.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mel.vim
+END
+foxpro.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/foxpro.vim
+END
+hog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hog.vim
+END
+jargon.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jargon.vim
+END
+tcl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tcl.vim
+END
+docbk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/docbk.vim
+END
+hostconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hostconf.vim
+END
+psf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/psf.vim
+END
+icon.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/icon.vim
+END
+lsl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lsl.vim
+END
+bdf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bdf.vim
+END
+masm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/masm.vim
+END
+sql.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sql.vim
+END
+django.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/django.vim
+END
+exim.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/exim.vim
+END
+scheme.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/scheme.vim
+END
+haste.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/haste.vim
+END
+cs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cs.vim
+END
+wget.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wget.vim
+END
+netrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/netrc.vim
+END
+ora.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ora.vim
+END
+conaryrecipe.vim
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/conaryrecipe.vim
+END
+rexx.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rexx.vim
+END
+tli.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tli.vim
+END
+rcslog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rcslog.vim
+END
+ampl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ampl.vim
+END
+chill.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/chill.vim
+END
+cmusrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cmusrc.vim
+END
+model.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/model.vim
+END
+xxd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xxd.vim
+END
+svn.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/svn.vim
+END
+javascript.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/javascript.vim
+END
+jproperties.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jproperties.vim
+END
+tf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tf.vim
+END
+pic.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pic.vim
+END
+stata.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/stata.vim
+END
+smarty.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/smarty.vim
+END
+fvwm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fvwm.vim
+END
+asm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asm.vim
+END
+chaskell.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/chaskell.vim
+END
+eruby.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/eruby.vim
+END
+udevperm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/udevperm.vim
+END
+vera.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vera.vim
+END
+aflex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/aflex.vim
+END
+xmodmap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xmodmap.vim
+END
+gitsendemail.vim
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gitsendemail.vim
+END
+verilogams.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/verilogams.vim
+END
+idl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/idl.vim
+END
+sass.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sass.vim
+END
+mmix.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mmix.vim
+END
+screen.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/screen.vim
+END
+sather.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sather.vim
+END
+opl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/opl.vim
+END
+xquery.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xquery.vim
+END
+cheetah.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cheetah.vim
+END
+abap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/abap.vim
+END
+slang.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slang.vim
+END
+valgrind.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/valgrind.vim
+END
+ncf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ncf.vim
+END
+aspperl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/aspperl.vim
+END
+dylan.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dylan.vim
+END
+sed.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sed.vim
+END
+remind.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/remind.vim
+END
+vrml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vrml.vim
+END
+indent.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/indent.vim
+END
+pod.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pod.vim
+END
+sshconfig.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sshconfig.vim
+END
+abc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/abc.vim
+END
+dosbatch.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dosbatch.vim
+END
+bst.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bst.vim
+END
+uil.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/uil.vim
+END
+jsp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/jsp.vim
+END
+cl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cl.vim
+END
+xdefaults.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xdefaults.vim
+END
+wml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wml.vim
+END
+initex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/initex.vim
+END
+perl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/perl.vim
+END
+progress.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/progress.vim
+END
+zsh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/zsh.vim
+END
+pyrex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pyrex.vim
+END
+rst.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rst.vim
+END
+sh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sh.vim
+END
+mush.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mush.vim
+END
+manual.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/manual.vim
+END
+rpcgen.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rpcgen.vim
+END
+ratpoison.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ratpoison.vim
+END
+strace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/strace.vim
+END
+ant.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ant.vim
+END
+services.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/services.vim
+END
+htmlcheetah.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/htmlcheetah.vim
+END
+snnsnet.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/snnsnet.vim
+END
+ibasic.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ibasic.vim
+END
+plp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/plp.vim
+END
+ecd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ecd.vim
+END
+acedb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/acedb.vim
+END
+lhaskell.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lhaskell.vim
+END
+passwd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/passwd.vim
+END
+fvwm2m4.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fvwm2m4.vim
+END
+modula2.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/modula2.vim
+END
+robots.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/robots.vim
+END
+csc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/csc.vim
+END
+modsim3.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/modsim3.vim
+END
+framescript.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/framescript.vim
+END
+kconfig.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/kconfig.vim
+END
+lscript.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lscript.vim
+END
+asn.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asn.vim
+END
+coco.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/coco.vim
+END
+plaintex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/plaintex.vim
+END
+ada.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ada.vim
+END
+icemenu.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/icemenu.vim
+END
+syntax.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/syntax.vim
+END
+tsscl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tsscl.vim
+END
+css.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/css.vim
+END
+inform.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/inform.vim
+END
+gedcom.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gedcom.vim
+END
+exports.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/exports.vim
+END
+ahdl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ahdl.vim
+END
+tidy.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tidy.vim
+END
+latte.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/latte.vim
+END
+sieve.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sieve.vim
+END
+pccts.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pccts.vim
+END
+mp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mp.vim
+END
+lprolog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lprolog.vim
+END
+ayacc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ayacc.vim
+END
+rnc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rnc.vim
+END
+occam.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/occam.vim
+END
+tsalt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tsalt.vim
+END
+dictconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dictconf.vim
+END
+inittab.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/inittab.vim
+END
+xinetd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xinetd.vim
+END
+autohotkey.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/autohotkey.vim
+END
+logtalk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/logtalk.vim
+END
+nasm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nasm.vim
+END
+abel.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/abel.vim
+END
+autoit.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/autoit.vim
+END
+msmessages.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/msmessages.vim
+END
+ipfilter.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ipfilter.vim
+END
+elmfilt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/elmfilt.vim
+END
+debsources.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/debsources.vim
+END
+xsd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xsd.vim
+END
+fdcc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fdcc.vim
+END
+hastepreproc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hastepreproc.vim
+END
+lotos.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lotos.vim
+END
+limits.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/limits.vim
+END
+lace.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lace.vim
+END
+lftp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lftp.vim
+END
+gp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gp.vim
+END
+openroad.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/openroad.vim
+END
+synload.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/synload.vim
+END
+focexec.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/focexec.vim
+END
+mplayerconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mplayerconf.vim
+END
+crm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/crm.vim
+END
+ppd.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ppd.vim
+END
+bib.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bib.vim
+END
+group.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/group.vim
+END
+scilab.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/scilab.vim
+END
+promela.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/promela.vim
+END
+fstab.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fstab.vim
+END
+tcsh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tcsh.vim
+END
+rebol.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rebol.vim
+END
+modula3.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/modula3.vim
+END
+rib.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rib.vim
+END
+prescribe.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/prescribe.vim
+END
+mgl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mgl.vim
+END
+b.vim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/b.vim
+END
+java.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/java.vim
+END
+mail.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mail.vim
+END
+samba.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/samba.vim
+END
+changelog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/changelog.vim
+END
+lex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lex.vim
+END
+litestep.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/litestep.vim
+END
+xs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xs.vim
+END
+iss.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/iss.vim
+END
+xml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xml.vim
+END
+r.vim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/r.vim
+END
+esqlc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/esqlc.vim
+END
+racc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/racc.vim
+END
+python.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/python.vim
+END
+cpp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cpp.vim
+END
+freebasic.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/freebasic.vim
+END
+vgrindefs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vgrindefs.vim
+END
+blank.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/blank.vim
+END
+postscr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/postscr.vim
+END
+dircolors.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dircolors.vim
+END
+grads.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/grads.vim
+END
+prolog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/prolog.vim
+END
+esterel.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/esterel.vim
+END
+ia64.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ia64.vim
+END
+rc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rc.vim
+END
+mib.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mib.vim
+END
+edif.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/edif.vim
+END
+erlang.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/erlang.vim
+END
+cweb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cweb.vim
+END
+modconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/modconf.vim
+END
+specman.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/specman.vim
+END
+sas.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sas.vim
+END
+cf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cf.vim
+END
+sml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sml.vim
+END
+pine.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pine.vim
+END
+winbatch.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/winbatch.vim
+END
+sgml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sgml.vim
+END
+eviews.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/eviews.vim
+END
+pov.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pov.vim
+END
+gitrebase.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gitrebase.vim
+END
+lpc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lpc.vim
+END
+btm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/btm.vim
+END
+sicad.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sicad.vim
+END
+virata.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/virata.vim
+END
+htmldjango.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/htmldjango.vim
+END
+expect.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/expect.vim
+END
+initng.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/initng.vim
+END
+a65.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/a65.vim
+END
+tags.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tags.vim
+END
+slpconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slpconf.vim
+END
+html.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/html.vim
+END
+pf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pf.vim
+END
+htmlm4.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/htmlm4.vim
+END
+nroff.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/nroff.vim
+END
+abaqus.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/abaqus.vim
+END
+omnimark.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/omnimark.vim
+END
+arch.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/arch.vim
+END
+esmtprc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/esmtprc.vim
+END
+udevrules.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/udevrules.vim
+END
+awk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/awk.vim
+END
+c.vim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/c.vim
+END
+tar.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tar.vim
+END
+vim.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vim.vim
+END
+master.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/master.vim
+END
+debcontrol.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/debcontrol.vim
+END
+gdb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gdb.vim
+END
+dictdconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dictdconf.vim
+END
+lite.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lite.vim
+END
+maple.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/maple.vim
+END
+ist.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ist.vim
+END
+lilo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lilo.vim
+END
+kwt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/kwt.vim
+END
+automake.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/automake.vim
+END
+trustees.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/trustees.vim
+END
+colortest.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/colortest.vim
+END
+amiga.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/amiga.vim
+END
+takcmp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/takcmp.vim
+END
+vsejcl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vsejcl.vim
+END
+fasm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/fasm.vim
+END
+javacc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/javacc.vim
+END
+slpreg.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/slpreg.vim
+END
+wdiff.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wdiff.vim
+END
+xf86conf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xf86conf.vim
+END
+sqlanywhere.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqlanywhere.vim
+END
+debchangelog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/debchangelog.vim
+END
+takout.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/takout.vim
+END
+eterm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/eterm.vim
+END
+doxygen.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/doxygen.vim
+END
+apache.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/apache.vim
+END
+dsl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dsl.vim
+END
+diva.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/diva.vim
+END
+git.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/git.vim
+END
+rcs.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rcs.vim
+END
+loginaccess.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/loginaccess.vim
+END
+matlab.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/matlab.vim
+END
+spice.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/spice.vim
+END
+dylanintr.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dylanintr.vim
+END
+resolv.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/resolv.vim
+END
+lifelines.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lifelines.vim
+END
+ave.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ave.vim
+END
+desc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/desc.vim
+END
+basic.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/basic.vim
+END
+wsml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wsml.vim
+END
+spyce.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/spyce.vim
+END
+phtml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/phtml.vim
+END
+php.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/php.vim
+END
+rtf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rtf.vim
+END
+xhtml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xhtml.vim
+END
+def.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/def.vim
+END
+webmacro.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/webmacro.vim
+END
+netrw.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/netrw.vim
+END
+ld.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ld.vim
+END
+dtml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dtml.vim
+END
+tpp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tpp.vim
+END
+tasm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tasm.vim
+END
+bindzone.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/bindzone.vim
+END
+rhelp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/rhelp.vim
+END
+sqlinformix.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqlinformix.vim
+END
+objcpp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/objcpp.vim
+END
+po.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/po.vim
+END
+tak.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tak.vim
+END
+privoxy.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/privoxy.vim
+END
+sysctl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sysctl.vim
+END
+d.vim
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/d.vim
+END
+hex.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/hex.vim
+END
+mailaliases.vim
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mailaliases.vim
+END
+gdmo.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gdmo.vim
+END
+updatedb.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/updatedb.vim
+END
+gsp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gsp.vim
+END
+sinda.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sinda.vim
+END
+papp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/papp.vim
+END
+wsh.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/wsh.vim
+END
+cdrdaoconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cdrdaoconf.vim
+END
+yaml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/yaml.vim
+END
+radiance.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/radiance.vim
+END
+qf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/qf.vim
+END
+ptcap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ptcap.vim
+END
+tssop.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/tssop.vim
+END
+udevconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/udevconf.vim
+END
+catalog.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/catalog.vim
+END
+maxima.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/maxima.vim
+END
+cmake.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/cmake.vim
+END
+flexwiki.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/flexwiki.vim
+END
+gkrellmrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/gkrellmrc.vim
+END
+pcap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pcap.vim
+END
+dns.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/dns.vim
+END
+xbl.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xbl.vim
+END
+asteriskvm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asteriskvm.vim
+END
+xslt.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/xslt.vim
+END
+ocaml.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/ocaml.vim
+END
+aap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/aap.vim
+END
+monk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/monk.vim
+END
+mrxvtrc.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mrxvtrc.vim
+END
+sqlforms.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/sqlforms.vim
+END
+mailcap.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mailcap.vim
+END
+messages.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/messages.vim
+END
+diff.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/diff.vim
+END
+desktop.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/desktop.vim
+END
+asm68k.vim
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/asm68k.vim
+END
+man.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/man.vim
+END
+web.vim
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/web.vim
+END
+mason.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/mason.vim
+END
+chordpro.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/chordpro.vim
+END
+vmasm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/vmasm.vim
+END
+pamconf.vim
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/pamconf.vim
+END
+lout.vim
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/vim/!svn/ver/1754/vim7/runtime/syntax/lout.vim
+END
