@@ -15,6 +15,8 @@ set noexpandtab  " Use hard tabs please! Watch out for files with soft tabs
                  "                  " files.
 set nocompatible " Don't care about VI-compatibility
 set fo=tcoqan    " Options for formatting text (i.e. for use with gq)
+" colorscheme elflord
+set background=dark
 
 " With a map leader it's possible to do extra key combinations
 " like <leader>w saves the current file
@@ -99,7 +101,7 @@ set noswapfile
 " One of the most important options to activate. Allows you to switch from an
 " unsaved buffer without saving it first. Also allows you to keep an undo
 " history for multiple files. Vim will complain if you try to quit without
-" saving, and swap files will keep you safe if your computer crashes.
+" saving, if your computer crashes you're SOL so save often!
 set hidden
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -223,15 +225,24 @@ endfunction
 
 "" Dumb shortcuts for finding crap
 command! -nargs=1 Find :call Find("<args>")
-command! -nargs=1 Pf :!pf "<args>"
-command! -nargs=1 Tf :!tf "<args>"
-command! -nargs=1 Jsf :!jsf "<args>" | grep -v build
-command! -nargs=1 Cf :!cf "<args>" | grep -v build
 
 "" Other useful shortcuts for me, alan
 command! Restart :!myapachectl -k restart
-command! Loc :!ls -l ~/pg/loc
-command! -nargs=1 Decid :!python tools/decid.py "<args>"
-command! -nargs=1 Encid :!python tools/encid.py "<args>"
-command! Jslint :!js -s -C %
+command! Loc :!ls -l ~/pg/loc 
+command! -nargs=1 Pf :!pf "<args>" 
+command! -nargs=1 Tf :!tf "<args>" 
+command! -nargs=1 Jsf !jsf "<args>" | grep -v build 
+command! -nargs=1 Cf :!cf "<args>" | grep -v build 
+command! -nargs=1 Decid :!python tools/decid.py "<args>" 
+command! -nargs=1 Encid :!python tools/encid.py "<args>" 
+command!  Jslint :!js -s -C %
+command! Pb :!cat output | pastebinit - 
+
+"" <3 Conque
+command! I :ConqueTermVSplit ipython
+command! Sh :ConqueTermVSplit bash
+command! Devdb :ConqueTermSplit mysql -uyelpdev -h devdb
+command! Tailapperror :ConqueTermTab tail_apperror
+
+
 

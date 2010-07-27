@@ -5,5 +5,12 @@
 	br = branch
 	ci = commit
 	st = status
+	di = diff
 	unstage = reset HEAD --
 	last = log -1 HEAD
+[push]
+	default = current
+[branch]
+	autosetuprebase = remote
+[branch "master"]
+	rebase = true
