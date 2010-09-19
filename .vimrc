@@ -1,3 +1,4 @@
+set nocompatible " Don't care about VI-compatibility. Must be first, causes side effects
 "" Makes bundles/plugins easier to manage. 
 call pathogen#runtime_prepend_subdirectories(expand('~/.vimbundles'))
 
@@ -6,6 +7,7 @@ call pathogen#runtime_prepend_subdirectories(expand('~/.vimbundles'))
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set paste        " Allow pasting from OS X
 set autoindent   " Keep the indent level when hitting Return
+set copyindent   " copy previous indentation when auto indenting
 set smartindent  " Use smart indenting (mostly useful for C/C++ files)
 set cindent      " Don't indent Python really poorly
 set tabstop=4    " Make tabs appear four spaces wide (default is 8 spaces)
@@ -13,10 +15,11 @@ set shiftwidth=4
 set noexpandtab  " Use hard tabs please! Watch out for files with soft tabs
                  " that don't have a modeline present, especially Python
                  "                  " files.
-set nocompatible " Don't care about VI-compatibility
 set fo=tcoqan    " Options for formatting text (i.e. for use with gq)
-" colorscheme elflord
+colorscheme elflord
 set background=dark
+filetype plugin on
+filetype indent on
 
 " With a map leader it's possible to do extra key combinations
 " like <leader>w saves the current file
@@ -36,7 +39,14 @@ let mapleader = ","
 set backspace=indent,eol,start
 " Remap omni-completion to CTRL+SPACE
 inoremap <C-space> <C-x><C-o>
-let g:py_select_leading_comments = 0
+" trim trailing whitespace
+autocmd BufWritePre *.py normal m`:%s/\s\+$//e ``
+" autoindent improved
+autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
+nnoremap ; : 
+nnoremap j gj
+nnoremap k gk
+nmap <silent> ,/ :nohlsearch<CR>
 " END EXPER
 
 
@@ -79,6 +89,9 @@ set showmatch   " Show matching parens as they come up
 set ruler       " Show the column number in the status bar
 set rulerformat=%30(%=\:b%n%y%m%r%w\ %l,%c%V\ %P%)
 set wildmenu    " Get a cool menu for tab completing file names
+set wildignore=*.swp,*.bak,*.pyc,*.class
+set title       " set the terminal's title
+set nocompatible " Don't care about VI-compatibility
 set lz          " Don't redraw the screen in the middle of executing macros
 set visualbell t_vb=
 set smartcase   " Ignore case, unless caps are used in the search
@@ -91,6 +104,7 @@ set showcmd     " show partial commands in status line and
 set laststatus=2 "Always have a status line
 set showtabline=2 " Always have a tab bar
 set statusline=%2n:*%-32.32f%*\ \ %2*%r%m%*\ %=%y\%15(%l/%L:%c\ (%2p%%)%)
+set pastetoggle=<F2> " toggle to turn off vim smartness while pasting
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Files and backups
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -182,10 +196,7 @@ au BufRead,BufNewFile *.css.tmpl set filetype=css
 
 au FileType python syn keyword pythonDecorator True None False self
 " autocmd FileType python source ~/.vim/python_fold.vim
-autocmd FileType python set omnifunc=pythoncomplete#Complete
-" Python comment/uncomment
-map <leader>c :s/^/#/<CR>:/asdfnvaewontgaoghnsdfafd<CR>
-map <leader>x :s/^#//<CR>:/asdfnvaewontgaoghnsdfafd<CR>
+" autocmd FileType python set omnifunc=pythoncomplete#Complete
 "" this makes python auto indent less retarded
 let g:pyindent_open_paren = '&sw * 1'
 let g:pyindent_nested_paren = '&sw'
@@ -231,7 +242,7 @@ command! Restart :!myapachectl -k restart
 command! Loc :!ls -l ~/pg/loc 
 command! -nargs=1 Pf :!pf "<args>" 
 command! -nargs=1 Tf :!tf "<args>" 
-command! -nargs=1 Jsf !jsf "<args>" | grep -v build 
+command! -nargs=1 Jsf !jsf "<args>" 
 command! -nargs=1 Cf :!cf "<args>" | grep -v build 
 command! -nargs=1 Decid :!python tools/decid.py "<args>" 
 command! -nargs=1 Encid :!python tools/encid.py "<args>" 
