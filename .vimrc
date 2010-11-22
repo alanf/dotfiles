@@ -41,12 +41,18 @@ set backspace=indent,eol,start
 inoremap <C-space> <C-x><C-o>
 " trim trailing whitespace
 autocmd BufWritePre *.py normal m`:%s/\s\+$//e ``
+" trim leading whitespace
+autocmd BufWritePre *.py normal m`:%s/^\s\+$//e ``
 " autoindent improved
 autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
 nnoremap ; : 
 nnoremap j gj
 nnoremap k gk
 nmap <silent> ,/ :nohlsearch<CR>
+" syntastic
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
 " END EXPER
 
 
@@ -66,7 +72,7 @@ map <silent> <leader>V :source $MYVIMRC<CR>:filetype detect<CR>:exe ":echo 'vimr
 
 map <F6> :execute 'NERDTreeToggle ' . getcwd()<CR>
 let NERDTreeIgnore = ['\.pyc$', '\.pyo$']
-:map <F7> :!cd ~/pg/loc;make<CR>
+:map <F4> :!cd ~/pg/loc;make<CR>
 
 " How much history to keep around
 set history=800
@@ -254,6 +260,4 @@ command! I :ConqueTermVSplit ipython
 command! Sh :ConqueTermVSplit bash
 command! Devdb :ConqueTermSplit mysql -uyelpdev -h devdb
 command! Tailapperror :ConqueTermTab tail_apperror
-
-
 
