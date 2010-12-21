@@ -106,6 +106,7 @@ set lbr         " Wrap only at word boundaries (default is at any character)
 set cursorline "Warning! Disguises commas and periods.
 set showcmd     " show partial commands in status line and
                 " selected characters/lines in visual mode
+set mouse=r
 "" Status line
 set laststatus=2 "Always have a status line
 set showtabline=2 " Always have a tab bar
@@ -151,8 +152,19 @@ map <leader>tm :tabmove
 map <C-I> :tabprevious<cr>
 map <C-O> :tabnext<cr>
 
-" When pressing <leader>cd switch to the directory of the open buffer
-" map <leader>cd :cd %:p:h<cr>
+"" <3 <3 <3 LustyExplorer
+map <leader>e :LustyFilesystemExplorer
+" Just for documentation
+":LustyFilesystemExplorer
+":LustyFilesystemExplorerFromHere
+":LustyBufferExplorer
+":LustyBufferGrep (for searching through all open buffers)
+"
+"<Leader>lf  - Opens filesystem explorer.
+"<Leader>lr  - Opens filesystem explorer at the directory of the current file.
+"<Leader>lb  - Opens buffer explorer.
+"<Leader>lg  - Opens buffer grep.
+
 
 command! Bclose call <SID>BufcloseCloseIt()
 function! <SID>BufcloseCloseIt()
@@ -253,7 +265,8 @@ command! -nargs=1 Cf :!cf "<args>" | grep -v build
 command! -nargs=1 Decid :!python tools/decid.py "<args>" 
 command! -nargs=1 Encid :!python tools/encid.py "<args>" 
 command!  Jslint :!js -s -C %
-command! Pb :!cat output | pastebinit - 
+command! Pb :!cat % | pastebinit - 
+command! -nargs=1 Flakes :r !pyflakes "<args>"
 
 "" <3 Conque
 command! I :ConqueTermVSplit ipython

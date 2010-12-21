@@ -15,8 +15,6 @@ shopt -s histappend                      # append to history, don't overwrite it
 export PROMPT_COMMAND="history -a; history -c; history -r;"
 
 export PATH=$PATH:/nail/home/alan/scripts
-# This is for ropevim
-export PYTHONPATH=$PYTHONPATH:/nail/home/alan/py-lib
 
 # enable color support of ls and also add handy aliases
 if [ "$TERM" != "dumb" ]; then
