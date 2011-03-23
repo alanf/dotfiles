@@ -1,2 +1,2 @@
 source ~/.bashrc
-source  git-completion.bash
+source  ~/bin/git-completion.bash
