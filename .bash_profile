@@ -27,10 +27,5 @@ export LANG="en_US"
 # You could just use `-g` instead, but I like being explicit
 complete -W "NSGlobalDomain" defaults
 
-export MAKEFLAGS="-j4" # this is so screen can figure out how to name the title of the open shell 
-
-export HISTCONTROL=ignoredups:erasedups:ignoreboth  # no duplicate entries 
-
-export HISTFILESIZE=100000               # big big history
 shopt -s histappend                      # append to history, don't overwrite it # Save and reload the history after each command finishes export 
 PROMPT_COMMAND="history -a; history -c; history -r;" 
