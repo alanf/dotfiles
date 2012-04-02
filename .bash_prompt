@@ -10,4 +10,3 @@ function maybe_git_branch() {
 PS1="${CNORMAL}[${CGREEN}\u${CAQUA}@${CRED}\h${CNORMAL}] [${CBLUE}\w${CNORMAL}]\$(maybe_git_branch)"
 
 export PS1="${PS1} ${CGREEN}\n\$${CNORMAL} "
-#export PROMPT_COMMAND=prompt-command
