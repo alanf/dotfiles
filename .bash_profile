@@ -33,4 +33,6 @@ PROMPT_COMMAND="history -a; history -c; history -r;"
 # MacPorts Installer addition on 2012-04-04_at_15:57:08: adding an appropriate PATH variable for use with MacPorts.
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 # Finished adapting your PATH environment variable for use with MacPorts.
+export PATH=~/bin:$PATH
+export PATH=~/Library/Haskell/bin/:$PATH
 
