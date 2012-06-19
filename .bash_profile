@@ -1,5 +1,3 @@
-source  ~/bin/git-completion.bash
-
 # Load ~/.extra, ~/.bash_prompt, ~/.exports, ~/.aliases and ~/.functions
 # ~/.extra can be used for settings you don’t want to commit
 for file in ~/.{extra,bash_prompt,exports,aliases,functions}; do
@@ -30,9 +28,24 @@ complete -W "NSGlobalDomain" defaults
 shopt -s histappend                      # append to history, don't overwrite it # Save and reload the history after each command finishes export 
 PROMPT_COMMAND="history -a; history -c; history -r;" 
 
+# Git completion
+if [[ -f "$HOME/.git-completion.bash" ]]; then
+  source "$HOME/.git-completion.bash"
+elif [[ -n $(which brew) && -f "`brew --prefix`/etc/bash_completion.d/git-completion.bash" ]]; then
+  . `brew --prefix`/etc/bash_completion.d/git-completion.bash
+else
+  function __git_ps1() {
+    echo ""
+  }
+fi
+
 # MacPorts Installer addition on 2012-04-04_at_15:57:08: adding an appropriate PATH variable for use with MacPorts.
 export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 # Finished adapting your PATH environment variable for use with MacPorts.
 export PATH=~/bin:$PATH
 export PATH=~/Library/Haskell/bin/:$PATH
+
+if [[ -d "/usr/local/sbin" ]]; then
+  export PATH="$PATH:/usr/local/sbin"
+fi
 
