@@ -9,8 +9,12 @@
 	unstage = reset HEAD --
 	last = log -1 HEAD
 [push]
-	default = current
+	default = tracking
+	config = default
 [branch]
 	autosetuprebase = remote
 [branch "master"]
 	rebase = true
+[user]
+	email = nathan+af@squareup.com
+	name = nathan spindel + Alan Fineberg

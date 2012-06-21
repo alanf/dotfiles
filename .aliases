@@ -6,6 +6,7 @@ alias -- -="cd -"
 # Shortcuts
 alias g="git"
 alias v="vim"
+alias x="open *xcode*"
 
 # List all files colorized in long format, including dot files
 alias la="ls -Gla"
