@@ -12,6 +12,11 @@ ZSH_THEME="muse"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source $HOME/.aliases
 
+. $HOME/bin/z.sh
+function precmd () {
+	_z --add "$(pwd -P)"
+}
+
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 

@@ -1,0 +1,54 @@
+#!/usr/bin/env ruby
+
+# alias-host [HOSTNAME IP]
+#
+# Aliases a host to your /etc/hosts
+# Useful for VPN access where DNS doesn't work
+#
+# Example:
+#
+#   alias-host turf.local 1.1.1.1
+#   alias-host turf.local --delete
+
+ALIASES = %w(squareup.com a1.squareup.com admin.squareup.com)
+
+host_name, host_ip = ARGV
+
+hostsfile = File.read("/etc/hosts")
+
+hosts = {}
+
+original_string = nil
+if match = hostsfile.match(/\n# Square VPN\n(.*)\n# End Square VPN/m)
+  original_string = match[0]
+  match[1].split("\n").each do |h|
+    ip, name, *aliases = h.split(/\s+/)
+    hosts[name] = { :ip => ip, :aliases => aliases }
+  end
+end
+
+if host_name
+  abort "IP required" unless host_ip
+  if host_ip == '--delete'
+    hosts.delete(host_name)
+  else
+    hosts[host_name] ||= {}
+    hosts[host_name][:ip] = host_ip
+    hosts[host_name][:aliases] ||= []
+  end
+end
+
+hosts.each do |name, host|
+  host[:aliases] = (host[:aliases] | ALIASES.map{|a| "#{a}.#{name}" }).uniq
+end
+
+new_hosts = hosts.map{|name, data| "#{data[:ip]}\t#{name} #{data[:aliases].join(' ')}" }.join("\n")
+new_string = "\n# Square VPN\n#{new_hosts}\n# End Square VPN"
+
+if original_string
+  hostsfile.sub!(original_string, new_string)
+else
+  hostsfile << "\n#{new_string}"
+end
+
+File.open("/etc/hosts", 'w'){|f| f.write hostsfile }

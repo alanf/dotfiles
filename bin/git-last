@@ -1,0 +1,7 @@
+#!/bin/bash
+project=$1
+square_home=${SQUARE_HOME:-"$HOME/Development"}
+[ -n "$project" ] && cd "$square_home/$project"
+rev=$(git rev-parse HEAD)
+echo "Latest Revision in "${project:-$PWD}": $rev"
+echo -n "$rev" | pbcopy
