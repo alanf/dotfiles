@@ -49,3 +49,7 @@ if [[ -d "/usr/local/sbin" ]]; then
   export PATH="$PATH:/usr/local/sbin"
 fi
 
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+set show-all-if-ambiguous on
+set completion-ignore-case on
